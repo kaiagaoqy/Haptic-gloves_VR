@@ -76,3 +76,4 @@ https://github.com/LucidVR/opengloves-driver
 **[English](https://github.com/LucidVR/lucidgloves/blob/main/README.md) | [简体中文](https://github.com/LucidVR/lucidgloves/blob/main/Readme_Languages/README_CN.md)**
 # Haptic-gloves_VR
 # Haptic-gloves_VR
+"# Haptic-gloves_VR" 
