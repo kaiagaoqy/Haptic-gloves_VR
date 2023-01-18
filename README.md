@@ -1,14 +1,3 @@
-![LucidGloves](https://cdn.discordapp.com/attachments/785135646082990120/873666310855360582/LucidGlovesBlackwbkgnd.png)
-
-# LucidGloves - Firmware and 3D Printer Files
-This repo contains the arduino firmware as well as the STL files for Prototypes 3 through 4 of the LucidVR glove. This is a finger tracking glove that allows you to use your hands in VR. Follow along with Lucas_VRTech's developments on his Tiktok page:
-https://www.tiktok.com/@lucas_vrtech
-
-# Support
-Join the LucidVR discord server for assistance:
-https://discord.gg/lucidvr
-
-
 # Firmware
 Open the firmware files located in the firmware/lucidgloves-firmware folder.
 By default the firmware is configured for an arduino nano using serial.
@@ -71,12 +60,3 @@ https://store.steampowered.com/app/1574050/OpenGloves/
 
 Source code available on GitHub:  
 https://github.com/LucidVR/opengloves-driver
-
-# Other Languages
-**[English](https://github.com/LucidVR/lucidgloves/blob/main/README.md) | [简体中文](https://github.com/LucidVR/lucidgloves/blob/main/Readme_Languages/README_CN.md)**
-# Haptic-gloves_VR
-# Haptic-gloves_VR
-"# Haptic-gloves_VR" 
-# Haptic-gloves_VR
-# Haptic-gloves_VR
-# Haptic-gloves_VR
